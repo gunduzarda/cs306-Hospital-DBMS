@@ -1,1 +1,1 @@
-# cs306-Hospital-DBMS
+# CS306-Hospital-DBMS
